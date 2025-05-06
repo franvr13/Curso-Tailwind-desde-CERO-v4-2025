@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+@plugin "@midudev/tailwind-animations";
+
+@font-face {
+  font-family: "FunnelDisplay";
+  src: url("/assets/FunnelDisplay-VariableFont_wght.woff2") format("woff2");
+  font-weight: 100 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@theme {
+  /* Custom font family */
+  --font-sans: "FunnelDisplay", system-ui, sans-serif;
+}	
+
+.social-button {
+  @apply p-2 size-12 sm:size-14 flex items-center justify-center rounded-full hover:scale-110 transition-transform;
+}
