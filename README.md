@@ -1,4 +1,4 @@
-# Curso Tailwind desde CERO v4 - 2025 @midudev
+# Curso Tailwind desde Cero. 
 
 Este proyecto es una plantilla base diseñada para aprender y practicar **Tailwind CSS** desde cero. Forma parte del curso práctico en el que se enseña cómo configurar y utilizar Tailwind sin depender de frameworks como React o Vue.
 
@@ -32,3 +32,6 @@ Curso-Tailwind-desde-CERO-v4-2025/
 - Personalizar el diseño mediante el archivo tailwind.config.js.
 - Crear layouts responsivos, botones, formularios y mucho más.
 - Usar esta base en proyectos sin necesidad de frameworks.
+
+## Licencia
+[Midudev](https://github.com/midudev)
