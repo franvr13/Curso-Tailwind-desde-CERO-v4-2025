@@ -13,14 +13,18 @@ Este proyecto es una plantilla base diseñada para aprender y practicar **Tailwi
 ## 📁 Estructura del proyecto
 
 ```
-├── index.html # Página principal con ejemplos de Tailwind
-├── input.css # Archivo CSS base para Tailwind (usa @tailwind)
-├── tailwind.config.js # Configuración personalizada de Tailwind
-├── package.json # Dependencias del proyecto
-├── package-lock.json # Lockfile de npm
-├── pnpm-lock.yaml # Lockfile de pnpm (opcional)
-└── .gitignore # Ignora node_modules y otros archivos
+Curso-Tailwind-desde-CERO-v4-2025/
+├── index.html             # Página principal con el contenido HTML
+├── input.css              # Archivo de entrada para Tailwind (@tailwind base, components, utilities)
+├── output.css             # (Se genera automáticamente) CSS procesado por Tailwind
+├── tailwind.config.js     # Configuración personalizada de Tailwind
+├── package.json           # Dependencias del proyecto y scripts
+├── package-lock.json      # Lockfile de npm
+├── pnpm-lock.yaml         # Lockfile alternativo si usas pnpm
+├── .gitignore             # Archivos y carpetas ignorados por Git
+└── .git/                  # Carpeta interna de Git (control de versiones)
 ```
+
 
 🧪 ¿Qué puedes hacer con esta plantilla?
 
